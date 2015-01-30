@@ -1,0 +1,28 @@
+#ranking-table {
+  width: 700px;
+  margin: 0 auto;
+
+}
+
+#ranking-table th {
+  text-align: left;
+  padding: 10px;
+}
+
+#ranking-table th {
+  text-transform: uppercase;
+}
+
+
+#ranking-table td {
+  padding: 10px;
+  vertical-align: middle;
+
+}
+
+.pagination a {
+  text-decoration: none;
+  padding-right: 5px;
+  color: #59c189;
+  font-weight: 600;
+}
